@@ -6,7 +6,7 @@ Because there was no print head anymore, egineers needed a way to indicate to th
 
 Programs on computers connected to video terminals could now be written to be much more interactive then before. Only now was it possible to do simple animations for example. And users saved a lot of paper!
 
-Here's a very popular video terminal, the VT110 by DEC, introduced in 1978
+Here's a very popular video terminal. It was introduced in 1978.
 ![VT100 by DEC][1]
 
 We will talk in detail about how a video terminal works internally in the Science & History track.
